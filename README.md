@@ -43,6 +43,8 @@ The following variables are considered for loan approval prediction:
 - **Pandas**: Data preprocessing and manipulation.
 
 ---
+### ***Model working video:-**
+https://github.com/user-attachments/assets/06b3b3c3-4d5c-4c17-bb66-4fc5d7c732ec
 
 ### **Getting Started**
 
