@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/My%20projects/Loan%20Approval%20Prediction/notebook/mlruns/0/92c4a8e4b61b4d6eb0fa4d64309e0476/artifacts
+end_time: 1736336776913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92c4a8e4b61b4d6eb0fa4d64309e0476
+run_name: persistent-yak-705
+run_uuid: 92c4a8e4b61b4d6eb0fa4d64309e0476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736336763384
+status: 3
+tags: []
+user_id: Kartik Nimhan

@@ -1,0 +1,10 @@
+[ 2025-01-09 16:21:28,843 ] 17 root - INFO - Starting data ingestion...
+[ 2025-01-09 16:21:32,258 ] 20 root - INFO - Data downloaded successfully to D:/My projects/Loan Approval Prediction/data/raw_data\Load_Approval_Prediction.csv
+[ 2025-01-09 16:21:32,260 ] 19 root - INFO - Data ingestion completed.
+[ 2025-01-09 16:21:32,260 ] 22 root - INFO - Starting data preprocessing...
+[ 2025-01-09 16:21:32,298 ] 36 root - INFO - Data preprocessed successfully and saved to D:/My projects/Loan Approval Prediction/data/preprocessed_data/processed_loan_data.csv
+[ 2025-01-09 16:21:32,299 ] 24 root - INFO - Data preprocessing completed. Processed data saved at D:/My projects/Loan Approval Prediction/data/preprocessed_data/processed_loan_data.csv.
+[ 2025-01-09 16:21:32,301 ] 27 root - INFO - Starting model training...
+[ 2025-01-09 16:21:40,894 ] 32 root - INFO - Model trained: Accuracy = 0.905152224824356, Log Loss = 0.22661099470896137
+[ 2025-01-09 16:21:40,900 ] 29 root - INFO - Model training completed. Model saved at D:/My projects/Loan Approval Prediction/model/loan_approval_model.pkl.
+[ 2025-01-09 16:21:40,900 ] 31 root - INFO - Pipeline execution completed successfully.

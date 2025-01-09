@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/My%20projects/Loan%20Approval%20Prediction/notebook/mlruns/269763801906319543/6fda4126d6cf42e3aa459f71fc06d8dc/artifacts
+end_time: 1736340050086
+entry_point_name: ''
+experiment_id: '269763801906319543'
+lifecycle_stage: active
+run_id: 6fda4126d6cf42e3aa459f71fc06d8dc
+run_name: ambitious-turtle-276
+run_uuid: 6fda4126d6cf42e3aa459f71fc06d8dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736340032289
+status: 3
+tags: []
+user_id: Kartik Nimhan

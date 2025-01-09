@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/My%20projects/Loan%20Approval%20Prediction/mlruns/431363971754922250/44efae43b9304cfe9c436b7e9e114c83/artifacts
+end_time: 1736411829533
+entry_point_name: ''
+experiment_id: '431363971754922250'
+lifecycle_stage: active
+run_id: 44efae43b9304cfe9c436b7e9e114c83
+run_name: dashing-ram-88
+run_uuid: 44efae43b9304cfe9c436b7e9e114c83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736411819110
+status: 3
+tags: []
+user_id: Kartik Nimhan

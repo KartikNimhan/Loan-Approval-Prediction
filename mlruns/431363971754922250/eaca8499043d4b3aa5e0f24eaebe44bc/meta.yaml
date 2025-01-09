@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/My%20projects/Loan%20Approval%20Prediction/mlruns/431363971754922250/eaca8499043d4b3aa5e0f24eaebe44bc/artifacts
+end_time: 1736418690947
+entry_point_name: ''
+experiment_id: '431363971754922250'
+lifecycle_stage: active
+run_id: eaca8499043d4b3aa5e0f24eaebe44bc
+run_name: serious-squid-939
+run_uuid: eaca8499043d4b3aa5e0f24eaebe44bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736418684766
+status: 3
+tags: []
+user_id: Kartik Nimhan

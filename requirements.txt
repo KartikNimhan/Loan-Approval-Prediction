@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+mlflow
+streamlit
+scikit-image
+joblib
+gdown
+requests

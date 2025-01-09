@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/My%20projects/Loan%20Approval%20Prediction/notebook/mlruns/0/3b14c11c9d3447bcaa8a1a66fe073ad7/artifacts
+end_time: 1736338864315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b14c11c9d3447bcaa8a1a66fe073ad7
+run_name: useful-penguin-658
+run_uuid: 3b14c11c9d3447bcaa8a1a66fe073ad7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736338854032
+status: 3
+tags: []
+user_id: Kartik Nimhan

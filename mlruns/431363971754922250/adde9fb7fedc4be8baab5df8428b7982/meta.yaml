@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/My%20projects/Loan%20Approval%20Prediction/mlruns/431363971754922250/adde9fb7fedc4be8baab5df8428b7982/artifacts
+end_time: 1736419882068
+entry_point_name: ''
+experiment_id: '431363971754922250'
+lifecycle_stage: active
+run_id: adde9fb7fedc4be8baab5df8428b7982
+run_name: sincere-crow-571
+run_uuid: adde9fb7fedc4be8baab5df8428b7982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736419873370
+status: 4
+tags: []
+user_id: Kartik Nimhan

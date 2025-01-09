@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/My%20projects/Loan%20Approval%20Prediction/notebook/mlruns/0/378c71d78974452abd529c960d783d99/artifacts
+end_time: 1736337901125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 378c71d78974452abd529c960d783d99
+run_name: wistful-asp-737
+run_uuid: 378c71d78974452abd529c960d783d99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736337880546
+status: 3
+tags: []
+user_id: Kartik Nimhan

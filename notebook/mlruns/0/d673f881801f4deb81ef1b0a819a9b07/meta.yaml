@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/My%20projects/Loan%20Approval%20Prediction/notebook/mlruns/0/d673f881801f4deb81ef1b0a819a9b07/artifacts
+end_time: 1736338625481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d673f881801f4deb81ef1b0a819a9b07
+run_name: funny-cub-56
+run_uuid: d673f881801f4deb81ef1b0a819a9b07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736338615231
+status: 3
+tags: []
+user_id: Kartik Nimhan

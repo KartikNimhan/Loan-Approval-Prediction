@@ -1,0 +1,28 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "no_of_dependents",
+      "education",
+      "self_employed",
+      "income_annum",
+      "loan_amount",
+      "loan_term",
+      "cibil_score",
+      "bank_asset_value",
+      "total_assets"
+    ],
+    "data": [
+      [
+        1.4750671508897635,
+        1.004460639582551,
+        -1.0072882121006403,
+        1.012244746869444,
+        1.6330517066580923,
+        -0.8584442736357297,
+        -0.18523294951864414,
+        1.1457019767145655,
+        0.4753122805651661
+      ]
+    ]
+  }
+}

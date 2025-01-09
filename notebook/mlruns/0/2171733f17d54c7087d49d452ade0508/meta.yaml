@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/My%20projects/Loan%20Approval%20Prediction/notebook/mlruns/0/2171733f17d54c7087d49d452ade0508/artifacts
+end_time: 1736338282312
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2171733f17d54c7087d49d452ade0508
+run_name: upset-penguin-102
+run_uuid: 2171733f17d54c7087d49d452ade0508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736337964004
+status: 3
+tags: []
+user_id: Kartik Nimhan

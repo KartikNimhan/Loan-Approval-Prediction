@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/My%20projects/Loan%20Approval%20Prediction/notebook/mlruns/0/e1c1da94bb1c40678eba13345741431c/artifacts
+end_time: 1736337230652
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1c1da94bb1c40678eba13345741431c
+run_name: nimble-bird-203
+run_uuid: e1c1da94bb1c40678eba13345741431c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736337222880
+status: 3
+tags: []
+user_id: Kartik Nimhan

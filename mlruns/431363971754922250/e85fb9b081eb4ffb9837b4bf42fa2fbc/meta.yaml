@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/My%20projects/Loan%20Approval%20Prediction/mlruns/431363971754922250/e85fb9b081eb4ffb9837b4bf42fa2fbc/artifacts
+end_time: 1736419363329
+entry_point_name: ''
+experiment_id: '431363971754922250'
+lifecycle_stage: active
+run_id: e85fb9b081eb4ffb9837b4bf42fa2fbc
+run_name: big-kite-267
+run_uuid: e85fb9b081eb4ffb9837b4bf42fa2fbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736419356379
+status: 3
+tags: []
+user_id: Kartik Nimhan

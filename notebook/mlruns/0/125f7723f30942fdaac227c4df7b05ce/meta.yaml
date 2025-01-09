@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/My%20projects/Loan%20Approval%20Prediction/notebook/mlruns/0/125f7723f30942fdaac227c4df7b05ce/artifacts
+end_time: 1736338803704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 125f7723f30942fdaac227c4df7b05ce
+run_name: selective-grouse-484
+run_uuid: 125f7723f30942fdaac227c4df7b05ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736338799188
+status: 3
+tags: []
+user_id: Kartik Nimhan

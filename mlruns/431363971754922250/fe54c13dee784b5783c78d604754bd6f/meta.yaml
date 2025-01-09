@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/My%20projects/Loan%20Approval%20Prediction/mlruns/431363971754922250/fe54c13dee784b5783c78d604754bd6f/artifacts
+end_time: 1736419090015
+entry_point_name: ''
+experiment_id: '431363971754922250'
+lifecycle_stage: active
+run_id: fe54c13dee784b5783c78d604754bd6f
+run_name: chill-perch-216
+run_uuid: fe54c13dee784b5783c78d604754bd6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736419082631
+status: 3
+tags: []
+user_id: Kartik Nimhan
