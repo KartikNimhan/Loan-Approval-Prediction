@@ -67,11 +67,11 @@ cd Loan-Approval-Prediction
 #### **Run with Docker**
 1. Build the Docker image:
    ```bash
-   docker build -t loan-approval-app .
+   docker build -t loan-approval-predictor .
    ```
 2. Run the application:
    ```bash
-   docker run -p 8501:8501 loan-approval-app
+   docker run -p 8501:8501 loan-approval-predictor
    ```
 
 #### **Docker Hub**
